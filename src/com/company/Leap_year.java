@@ -30,7 +30,9 @@ public class Leap_year {
                         return true;
 
                         }
-
+                    else {
+                    return false;
+                }
               
             }
         }
