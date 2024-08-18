@@ -31,9 +31,7 @@ public class Leap_year {
 
                         }
 
-                }else {
-                    return false;
-                }
+              
             }
         }
 
